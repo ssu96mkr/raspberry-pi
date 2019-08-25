@@ -6,3 +6,8 @@ https://www.raspberrypi.org/documentation/configuration/wireless/headless.md
 
 Setup Static IP
 https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/74428#74428
+
+Automated pi-hole install (with additional details)
+https://github.com/pi-hole/pi-hole/#one-step-automated-install
+
+
